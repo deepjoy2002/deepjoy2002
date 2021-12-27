@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepjoy Das
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Engineering
-- 💞️ I’m looking to collaborate on Machine Leaning, Deep Learning Projects
+- 💞️ I’m looking to collaborate on Machine Leaning, Deep Learning, Travel Vlogging Projects
 - 📫 How to reach me deepjoy2002@gmail.com
 
 <!---
